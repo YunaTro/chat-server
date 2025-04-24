@@ -73,7 +73,7 @@ This creates two executables:
 
 You can launch multiple client instances in separate terminals.
 
-💡 Log-файл chat_history.log сохраняется в ту директорию, откуда вы запускаете сервер. Если хотите видеть его в корне проекта, запускайте ./build/server из chat-server/.
+💡The log file chat_history.log is saved in the directory where you run the server. If you want to see it in the root of the project, run ./build/server from chat-server/.
 
 ---
 
