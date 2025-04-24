@@ -1,0 +1,7 @@
+# VS Code settings
+.vscode/
+
+# build artifacts
+build/
+chat_history.log
+test_parser
